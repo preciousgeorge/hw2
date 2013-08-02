@@ -6,7 +6,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  pool: 5
+  pool: 10
   database: deijksn3an4548
   username: rongkjgmlpyzja
   password: pAQgq-qq3H4nNto1TzMfFNgMg-
